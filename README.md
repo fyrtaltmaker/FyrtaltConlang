@@ -169,7 +169,6 @@ Both are rare word-initially (mostly in loans: dali "valley", gura "foreigner")
    - No ejectives in clusters: */pʼɾ/, */tʼw/
    - No nasal + obstruent: */mp/, */nt/
    - No /q/ or /qʼ/ + liquid: */qɾ/, */ql/
-   - No /ɬ/ (ll) in clusters except /ɬj/ (lly)
 
 3. **Permitted Final Clusters**:
    - Liquid + stop: /ɾp/, /lt/, /lk/
