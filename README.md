@@ -45,7 +45,7 @@ ai /ɑi/, ei /ɛi/, oa /oɑ/, au /ɑu/
 | p | /p/ | **p**at (unaspirated) | **p**ot |
 | p' | /pʼ/ | No English equivalent; **p** with a sharp glottal release | Georgian p'uri (bread) |
 | t | /t/ | s**t**op (unaspirated) | s**t**op |
-| t' | /tʼ/ | No English equivalent; **t** with a sudden, explosive release | Amharic t'ena (health) |
+| t' | /tʼ/ | No English equivalent; **t** with a sudden, explosive release | Amharic t'eena (health) |
 | k | /k/ | s**k**in (unaspirated) | s**k**in |
 | k' | /kʼ/ | No English equivalent; **k** with a glottal release | Quechua k'ancha (light) |
 | q | /q/ | No English equivalent; like a deep **k** pronounced at back of throat | Arabic **q**amar (moon) |
