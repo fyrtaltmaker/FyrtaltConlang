@@ -43,13 +43,13 @@ ai /ɑi/, ei /ɛi/, oa /oɑ/, au /ɑu/
 | Fyrtalt Letter | IPA | English Approximation | Example Word |
 |----------------|-----|------------------------|--------------|
 | p | /p/ | **p**at (unaspirated) | **p**ot |
-| p' | /pʼ/ | No English equivalent; **p** with a sharp glottal release | Georgian **p'**uri (bread) |
+| p' | /pʼ/ | No English equivalent; **p** with a sharp glottal release | Georgian **p' **uri (bread) |
 | t | /t/ | s**t**op (unaspirated) | s**t**op |
 | t' | /tʼ/ | No English equivalent; **t** with a sudden, explosive release | Amharic **t'**ena (health) |
 | k | /k/ | s**k**in (unaspirated) | s**k**in |
-| k' | /kʼ/ | No English equivalent; **k** with a glottal release | Quechua **k'**ancha (light) |
+| k' | /kʼ/ | No English equivalent; **k** with a glottal release | Quechua **k' **ancha (light) |
 | q | /q/ | No English equivalent; like a deep **k** pronounced at back of throat | Arabic **q**amar (moon) |
-| q' | /qʼ/ | No English equivalent; **q** with a sudden glottal burst | Tlingit **q'**aan (fire) |
+| q' | /qʼ/ | No English equivalent; **q** with a sudden glottal burst | Tlingit **q' **aan (fire) |
 | ch | /t͡ʃ/ | **ch**urch | **ch**urch |
 | d | /d/ | **d**og | **d**og |  
 | g | /ɡ/ | **g**oal | **g**oal | 
